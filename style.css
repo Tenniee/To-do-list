@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(233, 31, 45, 1.0);
+    background: linear-gradient(#51e2f5, #9df9ef, #edf, #ffa8B6, #a28089);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 50px;
+    height: 100vh;
+}
+
+.head{
+    background-color: rgba(68, 123, 190, 1.0);
+    color: #fff;
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+}
+
+.fa-plus{
+    color: black;
+}
+
+input{
+    background-color: rgba(255, 255, 255, 0.4);
+    border: none;
+}
+
+.button{
+    padding: none;
+    background-color: rgba(255, 255, 255, 0.4);
+    border: none;
+}
+
+#msg {
+    color: red;
+}
